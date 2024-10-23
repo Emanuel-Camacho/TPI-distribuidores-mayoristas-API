@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3013378-09A3-4EAB-99CD-698AD4F46E3C}|Web\\Web.csproj|c:\\users\\pc\\desktop\\github\\tpi-distribuidores-mayoristas-api\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3013378-09A3-4EAB-99CD-698AD4F46E3C}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3013378-09A3-4EAB-99CD-698AD4F46E3C}|Web\\Web.csproj|c:\\users\\pc\\desktop\\github\\tpi-distribuidores-mayoristas-api\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\web\\mayorista.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A3013378-09A3-4EAB-99CD-698AD4F46E3C}|Web\\Web.csproj|solutionrelative:web\\mayorista.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\Infrastructure\\Migrations\\20241023150411_AddUsersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20241023150411_AddUsersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B0BC87-FB91-45A5-87C6-C8E04E8BF247}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\github\\tpi-distribuidores-mayoristas-api\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\infrastructure\\migrations\\productdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B0BC87-FB91-45A5-87C6-C8E04E8BF247}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\productdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B0BC87-FB91-45A5-87C6-C8E04E8BF247}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\github\\tpi-distribuidores-mayoristas-api\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\infrastructure\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B0BC87-FB91-45A5-87C6-C8E04E8BF247}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B0BC87-FB91-45A5-87C6-C8E04E8BF247}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\github\\tpi-distribuidores-mayoristas-api\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\infrastructure\\migrations\\20241023142243_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B0BC87-FB91-45A5-87C6-C8E04E8BF247}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241023142243_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B0BC87-FB91-45A5-87C6-C8E04E8BF247}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\github\\tpi-distribuidores-mayoristas-api\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\infrastructure\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B0BC87-FB91-45A5-87C6-C8E04E8BF247}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6E7D2-74AC-4EE5-960D-E9C4F56B01DE}|Domain\\Domain.csproj|c:\\users\\pc\\desktop\\github\\tpi-distribuidores-mayoristas-api\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C6E7D2-74AC-4EE5-960D-E9C4F56B01DE}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3013378-09A3-4EAB-99CD-698AD4F46E3C}|Web\\Web.csproj|c:\\users\\pc\\desktop\\github\\tpi-distribuidores-mayoristas-api\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3013378-09A3-4EAB-99CD-698AD4F46E3C}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mayorista.db",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\Web\\Mayorista.db",
+              "RelativeDocumentMoniker": "Web\\Mayorista.db",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\Web\\Mayorista.db",
+              "RelativeToolTip": "Web\\Mayorista.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI8SURBVDhPdVNLT1NBGD3a23gJKaJUwsIEUaMoL2NsGyqxoCYEDRuKi0ZW3WHkL0D8BWqkJsLKQlsX9bGrNhqqRKRutCVp1BhFEiUxVyVx0Ud67/DN3EcvsZ7ck2/uN9/MnDkzswsGYrEY0xgD0zQwippGbabBzPEoORxb5Upl6Nrk5HsxiBeaWFhcZKqqWqxyVmuMx\u002BOsUCiwufn5P3dmI6eMYdhtRLEKh0pRVTlVQZpIkMPtduOs398sSdKSSBBqE5hqKJBovW1B/49Go0ilUihXys0iQZCMKPbMYQ7OrmaRza7C6/PBRxwbC4oe8gGzkYio4bApIPOM9v3oAppa23DpSgiyuw13781ZfRwa1ZqwJuAu86p8Lg//uQA6D7cjt/IKPUcOof/CMNbyearSp6HjEpHjHxMzmSU0NjTgUTKJUCiEJw\u002BT2OtyUT5DKkXJjtPbqYAQGBxEsVhEcHwciUQCl0dHsf5tA1W5CS\u002BWV1AqlcivOlvQZTH09vTi9fJLfF7fgGcggHcfvkBpbEc4HIay/zje5tb\u002Bp0A3kXPi6gSUzR94/CCON3Qaw8da8PzrX4x0HsD3n7/rm1i7BxSJHq8X16em4OnrRvrTL1zscOHpRwVn\u002Brrqmyjugf4JmjjdfQL7lALSz9Locm7hYGuL5ReHTUFNlgAVcVV7ZBlDA/0IjpzHyaMdkOnfXmvzgN9BenGSQ6dTgrMORa1tC9ZzvnnrNm2NjKROvjI/KhGNnFiA2vozZ7gxM01jgW0oG0\u002BFgH6cagAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-23T15:05:44.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\Infrastructure\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\Infrastructure\\ProductDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\ProductDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:00:14.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\Infrastructure\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\Infrastructure\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:57:59.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241023142243_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\Infrastructure\\Migrations\\20241023142243_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241023142243_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\Infrastructure\\Migrations\\20241023142243_InitialMigration.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241023142243_InitialMigration.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:22:43.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\Infrastructure\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\Infrastructure\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\AuthenticationService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:52:37.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAD4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:34:33.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241023150411_AddUsersTable.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\Infrastructure\\Migrations\\20241023150411_AddUsersTable.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241023150411_AddUsersTable.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\Infrastructure\\Migrations\\20241023150411_AddUsersTable.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241023150411_AddUsersTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:04:11.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:51:01.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\TPI-distribuidores-mayoristas-API\\distribuidor-mayorista-api-main\\distribuidor-mayorista\\Web\\appsettings.json",
+              "RelativeToolTip": "Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T14:26:56.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
